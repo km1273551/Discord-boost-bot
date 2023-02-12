@@ -1,0 +1,24 @@
+{ 
+    "capmonsterKey": "",
+    "bot_token": "",
+    "owner":"",
+    "prefix":"$",
+    "activity":"",
+    "guildID": "",
+
+
+
+    "logchannel":"",
+    "sellixchannel":"",
+
+    "Paypal_Gmail":"",
+    "BTC_Addy":"",
+    "LTC_Addy":"",
+    "Eth_Addy":"",
+    
+
+    "Paypal_Emoji":"",
+    "BTC_Emoji":"",
+    "LTC_Emoji":"",
+    "Eth_Emoji":""
+}
